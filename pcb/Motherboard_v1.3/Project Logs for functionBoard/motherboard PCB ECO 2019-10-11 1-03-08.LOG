@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=PWM1 Pin=M1-J1_57
+Added Pin To Net: NetName=PWM1 Pin=P2-1
+Added Net: Name=PWM1
+Added Pin To Net: NetName=PWM2 Pin=M1-J1_56
+Added Pin To Net: NetName=PWM2 Pin=P2-2
+Added Net: Name=PWM2
+Added Pin To Net: NetName=PWM3 Pin=M1-J1_3
+Added Pin To Net: NetName=PWM3 Pin=P2-3
+Added Net: Name=PWM3

@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=GPS_PPS Pin=M1-J1_17
+Removed Pin From Net: NetName=AS_AUX Pin=M1-J1_18
+Removed Pin From Net: NetName=AS_MD1 Pin=M1-J1_19
+Removed Pin From Net: NetName=AS_MD0 Pin=M1-J1_20
+Removed Pin From Net: NetName=SPI_CS Pin=M1-J1_53
+Removed Pin From Net: NetName=9D_INT Pin=M1-J2_4
+Removed Pin From Net: NetName=SPI_SCK Pin=M1-J2_5
+Removed Pin From Net: NetName=SPI_MISO Pin=M1-J2_6
+Removed Pin From Net: NetName=SPI_MOSI Pin=M1-J2_7
+Removed Pin From Net: NetName=SPI_RESET Pin=M1-J2_8
+Change Component Footprint: Designator=C1 Old Footprint=0805 New Footprint=0603P
+Change component parameters: Designator = "BOOT"; Footprint = "HDR2X3"; UniqueID = "\MDZITANF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P1"; Footprint = "HDR1X2"; UniqueID = "\NWQKJKUT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P3"; Footprint = "HDR2X9"; UniqueID = "\FHCEAUOD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GPS_PPS Pin=M1-J1_15
+Added Pin To Net: NetName=SPI_MOSI Pin=M1-J1_16
+Added Pin To Net: NetName=SPI_MISO Pin=M1-J1_17
+Added Pin To Net: NetName=SPI_CS Pin=M1-J1_18
+Added Pin To Net: NetName=SPI_RESET Pin=M1-J1_19
+Added Pin To Net: NetName=SPI_SCK Pin=M1-J1_20
+Added Pin To Net: NetName=AS_MD1 Pin=M1-J1_32
+Added Pin To Net: NetName=AS_MD0 Pin=M1-J1_33
+Added Pin To Net: NetName=9D_INT Pin=M1-J2_8
+Added Pin To Net: NetName=AS_AUX Pin=M1-J2_25

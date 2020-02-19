@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "usart.h": "c",
+        "brd_cfg.h": "c",
+        "m8266wifidrv.h": "c",
+        "math.h": "c",
+        "piclib.h": "c",
+        "gps.h": "c"
+    }
+}

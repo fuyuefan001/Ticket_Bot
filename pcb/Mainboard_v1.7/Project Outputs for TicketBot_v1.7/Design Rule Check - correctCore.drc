@@ -1,0 +1,81 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\charl\Documents\GitHub\ECE477grp12\pcb\Mainboard_v1.5\correctCore.PcbDoc
+Date     : 19/11/02
+Time     : 07:10:52 PM
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=20mil) ((InPolygon)),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=9mil) (Max=20mil) (Preferred=20mil) (InNetClass('gnd'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=9mil) (Max=20mil) (Preferred=20mil) (InNetClass('power'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=9mil) (Max=20mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : SMD To Corner (Distance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : SMD Neck-Down Constraint (Percent=100%) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (InNetClass('power'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=10mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (InNetClass('gnd'))
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (InPadClass('All Pads')),(InPadClass('All Pads'))
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Parallel Segment Constraint (Gap=10mil ) (Limit=10000mil) (InNetClass('spi4')),(InNetClass('spi4'))
+Rule Violations :0
+
+Processing Rule : Parallel Segment Constraint (Gap=10mil ) (Limit=10000mil) (InNetClass('fmc')),(InNetClass('fmc'))
+Rule Violations :0
+
+Processing Rule : Parallel Segment Constraint (Gap=10mil ) (Limit=10000mil) (InNetClass('dcmi')),(InNetClass('dcmi'))
+Rule Violations :0
+
+Processing Rule : Parallel Segment Constraint (Gap=10mil ) (Limit=10000mil) (InNetClass('qspi')),(InNetClass('qspi'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (Disabled)(All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:03

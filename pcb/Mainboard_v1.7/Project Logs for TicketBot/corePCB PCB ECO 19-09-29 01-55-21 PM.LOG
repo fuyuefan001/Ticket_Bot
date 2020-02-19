@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=PB10 Pin=J1-34
+Added Pin To Net: NetName=NRF_CS Pin=J1-34

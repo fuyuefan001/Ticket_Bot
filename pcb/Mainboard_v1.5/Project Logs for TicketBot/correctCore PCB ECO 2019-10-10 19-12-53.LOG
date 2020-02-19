@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=PF9 Pin=J1-11
+Removed Pin From Net: NetName=PF8 Pin=J1-12
+Removed Pin From Net: NetName=PF7 Pin=J1-13
+Removed Pin From Net: NetName=PF6 Pin=J1-14
+Removed Pin From Net: NetName=PA9 Pin=J1-51
+Removed Pin From Net: NetName=PA10 Pin=J1-52
+Removed Pin From Net: NetName=PA11 Pin=J1-53
+Removed Pin From Net: NetName=PA12 Pin=J1-54
+Removed Pin From Net: NetName=PH7 Pin=J2-9
+Removed Pin From Net: NetName=LCD_R3 Pin=J2-10
+Removed Pin From Net: NetName=LCD_R4 Pin=J2-11
+Removed Pin From Net: NetName=LCD_R5 Pin=J2-12
+Removed Pin From Net: NetName=PG3 Pin=J2-13
+Removed Pin From Net: NetName=LCD_R7 Pin=J2-15
+Removed Pin From Net: NetName=FMC_A17_ALE Pin=J2-21
+Removed Pin From Net: NetName=FMC_NWE Pin=J2-22
+Removed Pin From Net: NetName=FMC_A16_CLE Pin=J2-23
+Removed Pin From Net: NetName=FMC_NOE Pin=J2-26
+Removed Pin From Net: NetName=FMC_NWAIT Pin=J2-27
+Removed Pin From Net: NetName=LCD_G4 Pin=J2-28
+Removed Pin From Net: NetName=LCD_G3 Pin=J2-29
+Removed Pin From Net: NetName=LCD_G2 Pin=J2-30
+Removed Pin From Net: NetName=LCD_G7 Pin=J2-32
+Removed Pin From Net: NetName=LCD_G6 Pin=J2-33
+Removed Pin From Net: NetName=LCD_G5 Pin=J2-34
+Removed Pin From Net: NetName=LCD_B3 Pin=J2-35
+Removed Pin From Net: NetName=LCD_B4 Pin=J2-36
+Removed Pin From Net: NetName=LCD_B5 Pin=J2-37
+Removed Pin From Net: NetName=LCD_B6 Pin=J2-38
+Removed Pin From Net: NetName=LCD_B7 Pin=J2-39
+Removed Pin From Net: NetName=PI8 Pin=J2-40
+Removed Pin From Net: NetName=PI3 Pin=J2-41
+Removed Pin From Net: NetName=PA0 Pin=J2-42
+Removed Pin From Net: NetName=FMC_NBL0 Pin=J2-43
+Removed Pin From Net: NetName=FMC_NBL1 Pin=J2-44
+Removed Pin From Net: NetName=FMC_D0 Pin=J2-45
+Removed Pin From Net: NetName=FMC_D1 Pin=J2-46
+Removed Pin From Net: NetName=FMC_D2 Pin=J2-47
+Removed Pin From Net: NetName=FMC_D3 Pin=J2-48
+Removed Pin From Net: NetName=FMC_D4 Pin=J2-49
+Removed Pin From Net: NetName=FMC_D5 Pin=J2-50
+Removed Pin From Net: NetName=FMC_D6 Pin=J2-51
+Removed Pin From Net: NetName=FMC_D7 Pin=J2-52
+Removed Pin From Net: NetName=FMC_D8 Pin=J2-53
+Removed Pin From Net: NetName=FMC_D9 Pin=J2-54
+Removed Pin From Net: NetName=FMC_D10 Pin=J2-55
+Removed Pin From Net: NetName=FMC_D11 Pin=J2-56
+Removed Pin From Net: NetName=FMC_D12 Pin=J2-57
+Removed Pin From Net: NetName=FMC_D13 Pin=J2-58
+Removed Pin From Net: NetName=FMC_D14 Pin=J2-59
+Removed Pin From Net: NetName=FMC_D15 Pin=J2-60
+Change component parameters: Designator = "Y1"; Footprint = "XTAL3215"; UniqueID = "\RIZKECZD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
